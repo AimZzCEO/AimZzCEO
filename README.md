@@ -34,11 +34,13 @@
 
 <img src="assets/h-connect.svg" width="100%" alt="Connect" />
 
-<a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/badge/Discord-2F6BFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A1642" alt="Discord" /></a>
-<a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-2F6BFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A1642" alt="YouTube" /></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-2F6BFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0A1642" alt="X" /></a>
-<a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LinkedIn-2F6BFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1642" alt="LinkedIn" /></a>
-<a href="mailto:contact@zeno-innovations.com"><img src="https://img.shields.io/badge/Email-2F6BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1642" alt="Email" /></a>
+<a href="https://discord.gg/MrbmrnGFKS"><img src="https://img.shields.io/badge/Discord-2F6BFF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0A1642" alt="Discord" /></a>
+<a href="https://youtube.com/@zeno-innovations"><img src="https://img.shields.io/badge/YouTube-2F6BFF?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0A1642" alt="YouTube" /></a>
+<a href="https://tiktok.com/@zeno_innovations"><img src="https://img.shields.io/badge/TikTok-2F6BFF?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0A1642" alt="TikTok" /></a>
+<a href="https://www.instagram.com/zeno.innovations"><img src="https://img.shields.io/badge/Instagram-2F6BFF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A1642" alt="Instagram" /></a>
+<a href="https://www.facebook.com/profile.php?id=61596432297243"><img src="https://img.shields.io/badge/Facebook-2F6BFF?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0A1642" alt="Facebook" /></a>
+<a href="https://github.com/Zeno-Innovations"><img src="https://img.shields.io/badge/GitHub-2F6BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1642" alt="GitHub" /></a>
+<a href="mailto:waseem@zeno-innovations.com"><img src="https://img.shields.io/badge/Email-2F6BFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1642" alt="Email" /></a>
 
 <img src="assets/footer.svg" width="100%" alt="Innovation doesn't stop. Dream. Build. Innovate." />
 
