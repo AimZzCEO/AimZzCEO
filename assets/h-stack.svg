@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" fill="none"><defs>
-<linearGradient id="zg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35d0ff"/><stop offset=".5" stop-color="#2f6bff"/><stop offset="1" stop-color="#9a5cff"/></linearGradient>
-<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3d7bff" stop-opacity=".9"/><stop offset=".5" stop-color="#1a3a9a" stop-opacity=".35"/><stop offset="1" stop-color="#3d7bff" stop-opacity=".7"/></linearGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
-<filter id="glow2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#2f6bff" stop-opacity="0"/></linearGradient></defs>
-  <text x="8" y="44" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="38" font-weight="bold" fill="#eef3ff">Tech Stack</text>
-  <g><path d="M220 22 Q222.2 29.8 230 32 Q222.2 34.2 220 42 Q217.8 34.2 210 32 Q217.8 29.8 220 22Z" fill="#7fb0ff"/><g opacity=".6" filter="url(#glow)"><path d="M220 20 Q222.64 29.36 232 32 Q222.64 34.64 220 44 Q217.36 34.64 208 32 Q217.36 29.36 220 20Z" fill="#2f6bff"/></g></g>
-  <line x1="242" y1="32" x2="1192" y2="32" stroke="url(#hl)" stroke-width="1.5"/></svg>
