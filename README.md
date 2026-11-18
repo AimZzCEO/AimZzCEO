@@ -23,7 +23,11 @@
 
 <a href="#"><img src="assets/h-stack.svg" width="100%" alt="Tech Stack" /></a>
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,c,js,ts,html,css,nodejs,mongodb,mysql,supabase,firebase,redis,git,github,vscode,idea,docker,visualstudio&theme=dark&perline=10" alt="Tech stack" />
+<a href="#"><img src="assets/languages.svg" width="100%" alt="Languages: HTML, CSS, Python, JavaScript, TypeScript, Java, C, C++, C#, Go, Rust, Swift, Kotlin, Dart, PHP, Ruby, SQL, R, MATLAB, Scala, Elixir, Haskell, Perl, Lua, PowerShell, Bash, Objective-C, Visual Basic, Zig" /></a>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,supabase,firebase,redis,git,github,vscode,idea,docker,visualstudio&theme=dark&perline=12" alt="Databases and tools" />
 
 <br/><br/>
 
