@@ -1,16 +1,31 @@
-## Hi there 👋
+## PROJECTS
 
-<!--
-**Zeno-Innovations/Zeno-Innovations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Websites & Applications
 
-Here are some ideas to get you started:
+- **JARVIS** - [getjarvisbot.com](https://getjarvisbot.com)  
+  Discord bot management dashboard with server management and automation features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Zeno Innovations AI** - [zeno-innovations.com/ai](https://zeno-innovations.com/ai/)  
+  My own AI project, built as part of Zeno Innovations.
+
+- **Zeno Innovations** - [zeno-innovations.com](https://zeno-innovations.com)  
+  My own company, focused on software development and innovative technology.
+
+
+## TECH STACK
+
+### Languages & Web
+
+![Languages & Web](https://skillicons.dev/icons?i=python,java,kotlin,c,js,ts,html,css,nodejs)
+
+### Databases & Backend
+
+![Databases & Backend](https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase,redis)
+
+### Tools & Development
+
+![Tools & Development](https://skillicons.dev/icons?i=git,github,vscode,idea,docker,visualstudio)
+
+### Hosting & Infrastructure
+
+![Hosting](https://skillicons.dev/icons?i=cloudflare,vercel,linux)
