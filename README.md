@@ -26,7 +26,7 @@
 
 <img src="assets/h-stats.svg" width="100%" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050d2c&title_color=6FA0FF&icon_color=2F6BFF&text_color=C9D6FF&ring_color=2F6BFF&include_all_commits=true&border_radius=16" alt="Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AimZzCEO&show_icons=true&hide_border=true&bg_color=050d2c&title_color=6FA0FF&icon_color=2F6BFF&text_color=C9D6FF&ring_color=2F6BFF&include_all_commits=true&border_radius=16" alt="Stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050d2c&title_color=6FA0FF&text_color=C9D6FF&border_radius=16" alt="Top languages" />
 
 <img width="98%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050d2c&ring=2F6BFF&fire=6FA0FF&currStreakLabel=6FA0FF&sideLabels=C9D6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7E8FBF&border_radius=16" alt="Streak" />
