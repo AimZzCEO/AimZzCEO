@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="60" viewBox="0 0 830 60" fill="none"><defs>
+<linearGradient id="zg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35d0ff"/><stop offset=".5" stop-color="#2f6bff"/><stop offset="1" stop-color="#9a5cff"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#35d0ff"/><stop offset="1" stop-color="#9a5cff"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3d7bff" stop-opacity=".85"/><stop offset=".5" stop-color="#1a3a9a" stop-opacity=".3"/><stop offset="1" stop-color="#3d7bff" stop-opacity=".6"/></linearGradient>
+<linearGradient id="cb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#081240"/><stop offset="1" stop-color="#030821"/></linearGradient>
+<radialGradient id="cg" cx=".1" cy="0" r="1"><stop offset="0" stop-color="#2f6bff" stop-opacity=".28"/><stop offset="1" stop-color="#2f6bff" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="glow2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#2f6bff" stop-opacity="0"/></linearGradient></defs>
+  <text x="4" y="42" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" font-weight="bold" fill="#eef3ff">Projects</text>
+  <path d="M198 21 Q199.98 28.02 207 30 Q199.98 31.98 198 39 Q196.02 31.98 189 30 Q196.02 28.02 198 21Z" fill="#7fb0ff"/><g opacity=".7" filter="url(#glow)"><path d="M198 19 Q200.42 27.58 209 30 Q200.42 32.42 198 41 Q195.58 32.42 187 30 Q195.58 27.58 198 19Z" fill="#2f6bff"/></g>
+  <line x1="218" y1="30" x2="826" y2="30" stroke="url(#hl)" stroke-width="1.5"/></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="60" viewBox="0 0 830 60" fill="none"><defs>
+<linearGradient id="zg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35d0ff"/><stop offset=".5" stop-color="#2f6bff"/><stop offset="1" stop-color="#9a5cff"/></linearGradient>
+<linearGradient id="tg" x1="0" x2="1"><stop offset="0" stop-color="#35d0ff"/><stop offset="1" stop-color="#9a5cff"/></linearGradient>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3d7bff" stop-opacity=".85"/><stop offset=".5" stop-color="#1a3a9a" stop-opacity=".3"/><stop offset="1" stop-color="#3d7bff" stop-opacity=".6"/></linearGradient>
+<linearGradient id="cb" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#081240"/><stop offset="1" stop-color="#030821"/></linearGradient>
+<radialGradient id="cg" cx=".1" cy="0" r="1"><stop offset="0" stop-color="#2f6bff" stop-opacity=".28"/><stop offset="1" stop-color="#2f6bff" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+<filter id="glow2" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#5b8cff"/><stop offset="1" stop-color="#2f6bff" stop-opacity="0"/></linearGradient></defs>
+  <text x="4" y="42" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="34" font-weight="bold" fill="#eef3ff">Tech Stack</text>
+  <path d="M237 21 Q238.98 28.02 246 30 Q238.98 31.98 237 39 Q235.02 31.98 228 30 Q235.02 28.02 237 21Z" fill="#7fb0ff"/><g opacity=".7" filter="url(#glow)"><path d="M237 19 Q239.42 27.58 248 30 Q239.42 32.42 237 41 Q234.58 32.42 226 30 Q234.58 27.58 237 19Z" fill="#2f6bff"/></g>
+  <line x1="257" y1="30" x2="826" y2="30" stroke="url(#hl)" stroke-width="1.5"/></svg>
